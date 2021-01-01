@@ -1,19 +1,23 @@
 # Programming Foundations - Module 2
 
-## Lesson Task 1 Questions
+## Lesson Task 1 Answers
 
-### Question
+### Question 1
 
-Use a JavaScript string methed to determine whether these strings are equal regardless of letter case.
+Use a JavaScript string method to determine whether these strings are equal regardless of letter case.
 
 ```js
 var requiredName = "Gertrude";
 var supppliedName = "GERTRUDE";
 ```
 
-### Question
+### Question 2
 
-Write an if statement to check if the variable below has a mimimum character count of 4 and a maximum of 10.
+Write an if statement to check if the variable below has a minimum character count of 4 and a maximum of 10.
+
+```js
+var username = "myusername";
+```
 
 If both tests pass log a message saying "Acceptable username".
 
@@ -21,11 +25,7 @@ If either test fails use nested if statements to indicate which test failed, e.g
 
 Change the variable's value to test your code.
 
-```js
-var username = "myusername";
-```
-
-### Question
+### Question 3
 
 The following criteria need to be met before an order can be considered complete:
 
@@ -47,6 +47,6 @@ Use the logical AND (&&) operator to complete this task.
 
 Change the variables' values to test your code.
 
-### Question
+### Question 4
 
 Re-write your code from the question above using the logical OR (||) operator.
