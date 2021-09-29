@@ -8,7 +8,7 @@ Use a JavaScript string method to determine whether these strings are equal rega
 
 ```js
 var requiredName = "Gertrude";
-var supppliedName = "GERTRUDE";
+var suppliedName = "GERTRUDE";
 ```
 
 ### Question 2
